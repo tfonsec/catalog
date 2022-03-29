@@ -1,5 +1,0 @@
-package com.devsuperior.catalog.repositories;
-
-public interface CategoryRepository {
-
-}
