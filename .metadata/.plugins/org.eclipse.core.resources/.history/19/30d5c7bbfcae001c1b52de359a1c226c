@@ -1,0 +1,20 @@
+package com.devsuperior.catalog.controllers.exceptions;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+import com.devsuperior.catalog.services.exceptions.EntityNotFoundException;
+
+
+//classe para interceptar e tratar as exceções na camanda de controle.
+@ControllerAdvice
+public class ControllerExceptionHandler {
+	
+	public ResponseEntity<StandardError> entityNotFound
+	(EntityNotFoundException e, HttpServletRequest request){
+		{
+	}
+	}
+

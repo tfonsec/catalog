@@ -1,0 +1,5 @@
+package com.devsuperior.catalog.services;
+
+public class CategoryService {
+
+}
