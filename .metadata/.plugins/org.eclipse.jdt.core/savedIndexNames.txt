@@ -29,7 +29,6 @@ INDEX VERSION 1.131+/home/thiago/Workspaces/bootcamp/catalog/.metadata/.plugins/
 2888229738.index
 814594736.index
 3296683403.index
-1476245916.index
 455610832.index
 744251057.index
 3858893987.index
