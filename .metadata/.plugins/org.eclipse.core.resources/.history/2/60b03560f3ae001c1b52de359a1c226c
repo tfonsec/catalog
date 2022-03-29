@@ -1,0 +1,5 @@
+package com.devsuperior.catalog.dto;
+
+public class CategoryDTO {
+
+}
