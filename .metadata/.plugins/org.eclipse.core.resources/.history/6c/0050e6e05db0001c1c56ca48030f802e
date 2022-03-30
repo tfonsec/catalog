@@ -1,0 +1,5 @@
+package com.devsuperior.catalog.controllers;
+
+public class ProductController {
+
+}
